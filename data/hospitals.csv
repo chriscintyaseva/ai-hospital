@@ -1,0 +1,7 @@
+hospital_id,hospital_name,ward_type,total_beds,occupied_beds
+H-01,Central Medical Hospital,General,20,15
+H-02,Central Medical Hospital,ICU,6,4
+H-03,Central Medical Hospital,Neurological,8,3
+H-04,City General Hospital,General,25,8
+H-05,City General Hospital,ICU,8,2
+H-06,City General Hospital,Neurological,10,5
